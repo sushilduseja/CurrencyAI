@@ -15,7 +15,7 @@
     "@tensorflow/tfjs-backend-webgl": "^4.22.0",
     "@tensorflow/tfjs-backend-webgpu": "^4.22.0",
     "@tensorflow/tfjs-converter": "^4.22.0",
-    "axios": "^1.18.1",
+    "axios": "^1.20.0",
     "body-parser": "^2.3.0",
     "chart.js": "^4.5.1",
     "cors": "^2.8.6",
